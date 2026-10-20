@@ -9,9 +9,9 @@ title: Voyager — Politique de confidentialité
 
 La présente Politique de confidentialité décrit comment **Voyager**, application Discord modulaire, accède à certaines données, les utilise, les stocke et permet d'en demander la suppression.
 
-**Responsable du traitement : `LEGAL_NAME_OR_ENTITY`**  
-**Contact confidentialité : `CONTACT_EMAIL`**  
-**Support : `SUPPORT_URL`**
+**Responsable du traitement : `PETERS Daryl`**  
+**Contact confidentialité : `peters.daryl03@gmail.com`**  
+**Support : `https://discord.gg/e8BhTHqsQ9`**
 
 > Ces informations doivent être complétées avant publication.
 
@@ -221,10 +221,8 @@ La date de dernière mise à jour figurera en haut de cette page. En cas de modi
 
 Pour toute question concernant la confidentialité ou le traitement des données :
 
-**Responsable : `LEGAL_NAME_OR_ENTITY`**  
-**E-mail : `CONTACT_EMAIL`**  
-**Support : `SUPPORT_URL`**
+**Responsable : `PETERS Daryl`**  
+**E-mail : `peters.daryl03@gmail.com`**  
+**Support : `https://discord.gg/e8BhTHqsQ9`**
 
 ---
-
-[Retour aux informations légales](../)
