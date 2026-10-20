@@ -13,8 +13,6 @@ Les présentes Conditions d'utilisation (« **Conditions** ») régissent l'acc�
 **Contact : `peters.daryl03@gmail.com`**  
 **Support : `https://discord.gg/e8BhTHqsQ9`**
 
-> Ces informations doivent être complétées avant publication.
-
 ## 1. Acceptation des Conditions
 
 En ajoutant Voyager à un serveur Discord, en utilisant ses commandes, ses interfaces, ses boutons, ses formulaires ou ses autres fonctionnalités, vous acceptez les présentes Conditions.
@@ -158,5 +156,3 @@ Pour toute question relative aux présentes Conditions :
 **Support : `https://discord.gg/e8BhTHqsQ9`**
 
 ---
-
-[Retour aux informations légales](../)
