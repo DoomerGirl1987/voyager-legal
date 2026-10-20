@@ -185,7 +185,7 @@ En France, l'autorité de contrôle est la **CNIL**.
 
 Pour exercer vos droits ou demander la suppression de données associées à Voyager :
 
-**E-mail : `CONTACT_EMAIL`**
+**E-mail : `peters.daryl03@gmail.com`**
 
 Dans votre demande, indiquez uniquement les informations nécessaires à l'identification des données concernées, par exemple votre identifiant Discord, l'identifiant du serveur concerné et la nature des données ou du module concerné.
 
