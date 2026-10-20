@@ -13,8 +13,6 @@ La présente Politique de confidentialité décrit comment **Voyager**, applicat
 **Contact confidentialité : `peters.daryl03@gmail.com`**  
 **Support : `https://discord.gg/e8BhTHqsQ9`**
 
-> Ces informations doivent être complétées avant publication.
-
 ## 1. Portée
 
 Cette politique s'applique aux données traitées par Voyager lorsque l'Application est ajoutée à un serveur Discord, utilisée au moyen de commandes, boutons, formulaires ou autres interactions, configurée par un administrateur ou utilisée pour envoyer ou stocker des contenus via ses modules.
