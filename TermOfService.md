@@ -9,9 +9,9 @@ title: Voyager — Conditions d'utilisation
 
 Les présentes Conditions d'utilisation (« **Conditions** ») régissent l'accès et l'utilisation de **Voyager**, une application Discord modulaire (« **Voyager** », « **l'Application** », « **nous** »).
 
-**Exploitant : `LEGAL_NAME_OR_ENTITY`**  
-**Contact : `CONTACT_EMAIL`**  
-**Support : `SUPPORT_URL`**
+**Exploitant : `PETERS Daryl`**  
+**Contact : `peters.daryl03@gmail.com`**  
+**Support : `https://discord.gg/e8BhTHqsQ9`**
 
 > Ces informations doivent être complétées avant publication.
 
@@ -154,8 +154,8 @@ Les utilisateurs consommateurs conservent les protections impératives dont ils 
 
 Pour toute question relative aux présentes Conditions :
 
-**E-mail : `CONTACT_EMAIL`**  
-**Support : `SUPPORT_URL`**
+**E-mail : `peters.daryl03@gmail.com`**  
+**Support : `https://discord.gg/e8BhTHqsQ9`**
 
 ---
 
